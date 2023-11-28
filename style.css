@@ -1,0 +1,43 @@
+.btn{
+    width: 50px;
+    height: 50px;
+    margin: 0 7.5px;
+    text-align: center;
+    color: #fff;
+    background-color: #3d4056;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#btn-c{
+    width: 190px;
+}
+#btn-equal{
+    width: 120px;
+}
+main{
+    background-color: rgb(48, 45, 49);
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+body {
+    text-align: center;
+}
+.btn:hover{
+    background-color: rgb(106, 104, 104);
+}
+input{
+    margin-bottom: 30px;
+    width: 185px;
+    height: 25px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:  rgb(48, 51, 75);
+
+}
+ 
